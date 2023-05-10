@@ -1,5 +1,5 @@
 # movie_rating_prediction_deep_learning
-Deep Learning Final Project
+Deep Learning Final Project:
 This project aimed to predict movie ratings based on movie reviews using a deep learning approach. A Long Short-Term Memory (LSTM) 
 neural network was trained on a dataset of movie reviews and corresponding ratings, and its perfor- mance was evaluated on both 
 validation and test sets. The results showed that while the model was able to achieve moderate accuracy on the validation set, its 
